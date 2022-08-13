@@ -1,5 +1,6 @@
 {
   "name": "vaccine-portal",
+  "homepage": "/rejoining",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
